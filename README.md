@@ -2,6 +2,10 @@
 
 イベント全体・組織・人・日付から同じタスクを見て進める、公開用の操作デモです。
 
+**[デモを開く](https://sou-hajime.github.io/event-compass-demo/?view=tasks)**
+
+[全体画面](https://sou-hajime.github.io/event-compass-demo/) / [機能と使い方](https://sou-hajime.github.io/event-compass-demo/?view=guide)
+
 ## 主な機能
 
 - タスクカードのドラッグ移動と並べ替え
